@@ -3,10 +3,10 @@
 ### Ask
 
 **What topic are you exploring?**
-I intend to explore both Netflix stock prices since they introduced digital streaming and the effect that added movies and tv shows have on those stock prices.
+I intend to explore the liquidity Netflix as they relate to added movies and tv shows.
 
 **What is the problem you are trying to solve?**
-I intend to provide recommendations on what factors of an added movie or tv show may lead to an increased stock price for Netflix.
+I intend to provide recommendations on what factors of an added movie or tv show may lead to increased liquidity for Netflix stock.
 
 ### Prepare
 
